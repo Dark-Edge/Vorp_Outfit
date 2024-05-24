@@ -1,4 +1,4 @@
-# DICLAIMER : 
+# DISCLAIMER : 
     This work is still in progress, i'll upload it on fivem when it's ready
 
 # Purpose:
