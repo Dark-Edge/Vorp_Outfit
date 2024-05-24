@@ -25,3 +25,5 @@ Before clicking :
 After cliking : 
 
 ![image](https://github.com/Dark-Edge/Vorp_Outfit/assets/6528375/7034ef57-8a29-4335-a934-5857d8ea6c9c)
+
+Feel free to use this script as you want 'cause it’s opensource :wink:
