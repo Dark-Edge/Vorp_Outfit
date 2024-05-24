@@ -19,11 +19,6 @@ server_script {
 }
 
 
---[[========= VERSION =============--
+--========= VERSION =============--
 
 version '1.0'
-vorp_checker 'yes'
-vorp_name '^4Resource version Check^3'
-github 'https://github.com/Dark-Edge/Vorp_Outfit'
-
--- this script is protected under its license. --]]
