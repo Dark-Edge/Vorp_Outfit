@@ -18,6 +18,6 @@ Add the following lines into \vorp_character\server\server.lua :
 
 When you use the native vorp_character script and you make a new outfit / you change your comps, you'll get an item named "Outfit" with your outfit name in description that cas be used to change comps in inventory
 
-<iframe width="690" height="388" src="https://www.youtube.com/embed/a3QxnQ1UmgA" title="Vorp compatible RedM Outfit script showcase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            https://www.youtube.com/embed/a3QxnQ1UmgA
 
 Feel free to use this script as you want 'cause it’s opensource :wink:
