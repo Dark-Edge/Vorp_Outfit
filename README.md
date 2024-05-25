@@ -20,6 +20,6 @@ When you use the native vorp_character script and you make a new outfit / you ch
 
 [![Vorp compatible RedM Outfit script showcase](http://img.youtube.com/vi/RDMM&v=mPf4v9LGF30/0.jpg)](http://www.youtube.com/watch?v=RDMM&v=mPf4v9LGF30 "Vorp compatible RedM Outfit script showcase")
 
-[https://www.youtube.com/embed/a3QxnQ1UmgA]([https://www.youtube.com/watch?list=RDMM&v=mPf4v9LGF30](https://youtu.be/a3QxnQ1UmgA))
+[[https://www.youtube.com/embed/a3QxnQ1UmgA]([https://www.youtube.com/watch?list=RDMM&v=mPf4v9LGF30](https://youtu.be/a3QxnQ1UmgA))](https://youtu.be/a3QxnQ1UmgA)
 
 Feel free to use this script as you want 'cause it’s opensource :wink:
