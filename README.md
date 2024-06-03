@@ -14,6 +14,13 @@ Add the following lines into \vorp_character\server\server.lua :
 
             - TriggerEvent("Outfit:UpdatePlayercomps", source, arguments.Outfit.comps, arguments.Outfit.title) => near l.313 under the Character.updateCompTints one
 
+Exemple : 
+
+![image](https://github.com/Dark-Edge/Vorp_Outfit/assets/6528375/2342f242-fbd6-4bda-bbcf-75a871b8c4d0)
+
+![image](https://github.com/Dark-Edge/Vorp_Outfit/assets/6528375/d62a1480-c073-44b8-afc8-b2b1c500829c)
+
+
 # IN GAME : 
 
 When you use the native vorp_character script and you make a new outfit / you change your comps, you'll get an item named "Outfit" with your outfit name in description that cas be used to change comps in inventory
