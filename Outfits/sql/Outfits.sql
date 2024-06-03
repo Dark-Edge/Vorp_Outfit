@@ -27,7 +27,7 @@ SET time_zone = "+00:00";
 -- Structure de la table `items`
 --
 
-CREATE TABLE `items` (
+CREATE IF NOT EXISTS TABLE `items` (
   `item` varchar(50) NOT NULL,
   `label` varchar(50) NOT NULL,
   `limit` int(11) NOT NULL DEFAULT 1,
