@@ -44,7 +44,7 @@ CREATE TABLE IF NOT EXISTS `items` (
 -- Déchargement des données de la table `items`
 --
 
-INSERT INTO `items` (`item`, `label`, `limit`, `can_remove`, `type`, `usable`, `id`, `groupId`, `metadata`, `desc`) VALUES
+INSERT ignore INTO `items` (`item`, `label`, `limit`, `can_remove`, `type`, `usable`, `id`, `groupId`, `metadata`, `desc`) VALUES
 ('Outfit', 'Outfit', 1, 1, 'item_standard', 1, 2023, 1, '{}', 'Outfit');
 
 --
