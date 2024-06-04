@@ -27,4 +27,6 @@ When you use the native vorp_character script and you make a new outfit / you ch
 
 [![Vorp compatible RedM Outfit script showcase](http://img.youtube.com/vi/a3QxnQ1UmgA/0.jpg)](http://www.youtube.com/watch?v=a3QxnQ1UmgA "Vorp compatible RedM Outfit script showcase") - Showcase
 
+Discord : https://discord.gg/P34hPqfn
+
 Feel free to use this script as you want 'cause it’s opensource :wink:
